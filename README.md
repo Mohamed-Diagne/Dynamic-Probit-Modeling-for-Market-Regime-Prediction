@@ -1,5 +1,8 @@
 # 📈 Dynamic Probit Modeling for Market Regime Prediction
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LVatN8dzHDpiXFzE_Im0yS5mbb209Ujc?usp=sharing)
+
 ## Overview
 This project develops a dynamic probit modeling framework to predict excess market returns.  
 It integrates classical econometric modeling with modern extensions, including dynamic autoregressive structures and machine learning.
